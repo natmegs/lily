@@ -1,0 +1,90 @@
+{
+  "assetsByChunkName": {
+    "path---gallery-landscape": [
+      "path---gallery-landscape-a0e39f21c11f6a62c5ab.js",
+      "path---gallery-landscape-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---gallery-beach": [
+      "path---gallery-beach-a0e39f21c11f6a62c5ab.js",
+      "path---gallery-beach-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-gallery-salmon-jsx": [
+      "component---src-pages-gallery-salmon-jsx-4c8420e50c6576c73d82.js",
+      "component---src-pages-gallery-salmon-jsx-4c8420e50c6576c73d82.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---gallery-wildlife": [
+      "path---gallery-wildlife-a0e39f21c11f6a62c5ab.js",
+      "path---gallery-wildlife-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-9bf59007494feac9d4fe.js",
+      "component---src-layouts-index-jsx-9bf59007494feac9d4fe.js.map"
+    ],
+    "path---gallery-salmon": [
+      "path---gallery-salmon-a0e39f21c11f6a62c5ab.js",
+      "path---gallery-salmon-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---gallery": [
+      "path---gallery-a0e39f21c11f6a62c5ab.js",
+      "path---gallery-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-gallery-wildlife-jsx": [
+      "component---src-pages-gallery-wildlife-jsx-4c8420e50c6576c73d82.js",
+      "component---src-pages-gallery-wildlife-jsx-4c8420e50c6576c73d82.js.map"
+    ],
+    "component---src-pages-gallery-beach-jsx": [
+      "component---src-pages-gallery-beach-jsx-4c8420e50c6576c73d82.js",
+      "component---src-pages-gallery-beach-jsx-4c8420e50c6576c73d82.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-3f1636911f0d08f182bd.js",
+      "component---src-pages-about-jsx-3f1636911f0d08f182bd.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-98b97c73d9fde99e69fa.js",
+      "commons-98b97c73d9fde99e69fa.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-gallery-landscape-jsx": [
+      "component---src-pages-gallery-landscape-jsx-4c8420e50c6576c73d82.js",
+      "component---src-pages-gallery-landscape-jsx-4c8420e50c6576c73d82.js.map"
+    ],
+    "component---src-pages-gallery-index-jsx": [
+      "component---src-pages-gallery-index-jsx-f5f8904430bae1643885.js",
+      "component---src-pages-gallery-index-jsx-f5f8904430bae1643885.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-ec31e1c7aa6dcd41c752.js",
+      "component---src-pages-index-jsx-ec31e1c7aa6dcd41c752.js.map"
+    ],
+    "app": [
+      "app-b904cda159394bde7a23.js",
+      "build-js-styles.css",
+      "app-b904cda159394bde7a23.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
