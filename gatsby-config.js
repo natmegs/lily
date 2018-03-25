@@ -3,4 +3,5 @@ module.exports = {
     title: 'Lily Campbell',
   },
   plugins: ['gatsby-plugin-react-helmet', 'gatsby-plugin-sass'],
+  pathPrefix: `/lily`
 };
