@@ -31,8 +31,9 @@ class IndexPage extends React.Component {
     this.setState({ opacity: '0' });
     setTimeout(() => {
       this.setState({
-        opacity: '0.6',
         imgIndex: this.state.transitionIn ? this.state.imgIndex : (((this.state.imgIndex + 1) >= this.state.images.length) ? 0 : this.state.imgIndex + 1)
+      }, () => {
+        this.setState({ opacity: '0.6' })
       });
     }, 300);
   }
